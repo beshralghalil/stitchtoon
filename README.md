@@ -4,24 +4,32 @@
     A powerful package for stitching and cutting webtoons/manhwa/manhua raws.
   </p>
   <p>
-    A GUI version is available at <a href="https://github.com/BishrGhalil/stitchtoon-gui"><b>Stitchtoon GUI</b></a>
+    A GUI version is available at <a href="https://github.com/beshralghalil/stitchtoon-gui"><b>Stitchtoon GUI</b></a>
 
  <a href="https://discord.gg/vgWyc3tNnK">Discord Server</a>.
 
   </p>
-    <img src="https://github.com/BishrGhalil/stitchtoon/actions/workflows/python-test.yml/badge.svg?branch=new-api">
-  <a href="https://github.com/BishrGhalil/stitchtoon/releases/latest">
-    <img src="https://img.shields.io/github/v/release/BishrGhalil/stitchtoon">
+    <a href="https://pepy.tech/projects/stitchtoon">
+      <img src="https://static.pepy.tech/badge/stitchtoon">
   </a>
-  <a href="https://github.com/BishrGhalil/stitchtoon/releases/latest">
-    <img src="https://img.shields.io/github/release-date/BishrGhalil/stitchtoon">
+  
+  <img src="https://github.com/beshralghalil/stitchtoon/actions/workflows/python-test.yml/badge.svg?branch=master">
+  <a href="https://github.com/beshralghalil/stitchtoon/releases/latest">
+    <img src="https://img.shields.io/github/v/release/beshralghalil/stitchtoon">
   </a>
-  <a href="https://github.com/BishrGhalil/stitchtoon/tree/dev">
-    <img src="https://img.shields.io/github/last-commit/BishrGhalil/stitchtoon">
+  
+  <a href="https://github.com/beshralghalil/stitchtoon/releases/latest">
+    <img src="https://img.shields.io/github/release-date/beshralghalil/stitchtoon">
   </a>
-  <a href="https://github.com/BishrGhalil/stitchtoon/blob/dev/LICENSE">
-    <img src="https://img.shields.io/github/license/BishrGhalil/stitchtoon">
+  
+  <a href="https://github.com/beshralghalil/stitchtoon/tree/dev">
+    <img src="https://img.shields.io/github/last-commit/beshralghalil/stitchtoon">
   </a>
+  
+  <a href="https://github.com/beshralghalil/stitchtoon/blob/dev/LICENSE">
+    <img src="https://img.shields.io/github/license/beshralghalil/stitchtoon">
+  </a>
+  
   </div>
 
 ## Install
